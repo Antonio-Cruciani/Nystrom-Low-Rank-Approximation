@@ -3,3 +3,16 @@
 
 # Nystrom-Low-Rank-Approximation
 Nystrom Low Rank Gram Matrix Approximation in KELP
+
+
+## Table of Contents 
+
+- [Description](#Description)
+- [Nystrom Method](#Nystrom-Method)
+- [Kelp](#Kelp)
+- [Examples](#Examples)
+- [License](#License)
+
+## Description
+
+This library allows you to use Kernel Methods for large-scale learning problems.
