@@ -11,6 +11,7 @@ Nystrom Low Rank Gram Matrix Approximation in KELP
 - [Nystrom Method](#Nystrom-Method)
 - [Kelp](#Kelp)
 - [Examples](#Examples)
+- [Import Kelp](#Import-Kelp)
 - [License](#License)
 
 ## Description
@@ -32,7 +33,7 @@ For more informations visit :
 				http://www.kelp-ml.org
 
 			
-			
+## Import-Kelp			
 Import KELP via Maven:
 
 ```xml	
