@@ -77,5 +77,11 @@ Import KELP via Maven:
 		</repository>
 	</repositories>
 ```
-				
-				
+A full version ok KeLP is available on maven in the package kelp-full. It includes all the modules that compose the library. To import the 2.2.4 version of kelp-full, you can use the following Maven dependency.
+```xml
+		<dependency>
+			<groupId>it.uniroma2.sag.kelp</groupId>
+			<artifactId>kelp-full</artifactId>
+			<version>2.2.4-SNAPSHOT</version>
+		</dependency>
+```
